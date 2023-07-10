@@ -16,3 +16,11 @@ and deletes the number of points and lives that the player previously had, pacma
 fill the empty spaces with dots, "No" – the window closes).
 
 • Pac-man moves around the map with the help of the arrows on the keyboard.
+
+## External design:
+
+![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/346df61b-537b-427e-816b-d448d5061a2e)
+
+![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/f0ebd955-e8ec-445a-9b1a-0c1ada193033)
+
+![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/02c1b271-d2bd-4677-b13c-1e028ef0a0eb)
