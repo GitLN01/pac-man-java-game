@@ -17,10 +17,17 @@ fill the empty spaces with dots, "No" – the window closes).
 
 • Pac-man moves around the map with the help of the arrows on the keyboard.
 
+## UML diagrams:
+
+### Use case diagram:
+![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/4d7dd848-a50c-4364-97b7-88422266fa2d)
+
+### Activity diagram:
+![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/bbd1f39b-e2a1-4e00-939b-f84ae3231075)
+
+### Diagram of classes:
+![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/b849a901-b89b-40f4-9f0c-abbbf7d1cc62)
+
 ## External design:
 
-![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/346df61b-537b-427e-816b-d448d5061a2e)
-
-![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/f0ebd955-e8ec-445a-9b1a-0c1ada193033)
-
-![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/02c1b271-d2bd-4677-b13c-1e028ef0a0eb)
+![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/346df61b-537b-427e-816b-d448d5061a2e) ![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/f0ebd955-e8ec-445a-9b1a-0c1ada193033) ![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/02c1b271-d2bd-4677-b13c-1e028ef0a0eb)
