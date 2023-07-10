@@ -1,10 +1,10 @@
-# pac-man-java-game
+# About Pac-Man
 Pac-Man is an arcade game developed by Namco and distributed under license in the United States by Midway, 
 first released in Japan on May 22, 1980. Extremely popular in the United States from the day of its release until today, 
 Pac-Man is universally considered one of the classics of this medium, practically synonymous with video games and one of the 
 icons of popular culture of the 1980s. After its release, this game became a social phenomenon.
 
-# How to play:
+## How to play:
 • The player controls Pac-Man, who must collect all the food (called "Pellets") inside the closed maze while avoiding the 
 colored ghosts. The more points he collects, the higher the score, and if he comes into contact with the spirit 3 times, 
 the game ends and the number of points is canceled. The time of passing the game is not limited.
