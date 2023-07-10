@@ -29,8 +29,8 @@ fill the empty spaces with dots, "No" – the window closes).
 ![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/b849a901-b89b-40f4-9f0c-abbbf7d1cc62)
 
 ## External design:
-<p align="center">
+
 ![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/346df61b-537b-427e-816b-d448d5061a2e) 
 ![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/f0ebd955-e8ec-445a-9b1a-0c1ada193033) 
 ![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/02c1b271-d2bd-4677-b13c-1e028ef0a0eb)
-</p>
+
