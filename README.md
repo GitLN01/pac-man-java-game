@@ -34,7 +34,9 @@ fill the empty spaces with dots, "No" – the window closes).
     <img width="1000" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/b849a901-b89b-40f4-9f0c-abbbf7d1cc62"><br><br>
 </div>
 
-## External design:
+# External design:
+
+• First image shows the beggining of the game, second what happens when you achieve 300 points, and the third one what happens when you lose.
 <div align="center">
     <img width="350" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/346df61b-537b-427e-816b-d448d5061a2e"><br><br>
     <img width="350" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/f0ebd955-e8ec-445a-9b1a-0c1ada193033"><br><br>
