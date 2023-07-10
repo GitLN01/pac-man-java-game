@@ -30,7 +30,7 @@ fill the empty spaces with dots, "No" – the window closes).
 
 ## External design:
 <div align="center">
-    <img width="150" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/346df61b-537b-427e-816b-d448d5061a2e"><br><br>
-    <img width="150" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/f0ebd955-e8ec-445a-9b1a-0c1ada193033"><br><br>
-    <img width="150" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/02c1b271-d2bd-4677-b13c-1e028ef0a0eb"><br><br>
+    <img width="350" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/346df61b-537b-427e-816b-d448d5061a2e"><br><br>
+    <img width="350" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/f0ebd955-e8ec-445a-9b1a-0c1ada193033"><br><br>
+    <img width="350" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/02c1b271-d2bd-4677-b13c-1e028ef0a0eb"><br><br>
 </div>
