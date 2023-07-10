@@ -4,7 +4,7 @@ first released in Japan on May 22, 1980. Extremely popular in the United States 
 Pac-Man is universally considered one of the classics of this medium, practically synonymous with video games and one of the 
 icons of popular culture of the 1980s. After its release, this game became a social phenomenon.
 
-## How to play:
+# How to play:
 • The player controls Pac-Man, who must collect all the food (called "Pellets") inside the closed maze while avoiding the 
 colored ghosts. The more points he collects, the higher the score, and if he comes into contact with the spirit 3 times, 
 the game ends and the number of points is canceled. The time of passing the game is not limited.
@@ -17,7 +17,7 @@ fill the empty spaces with dots, "No" – the window closes).
 
 • Pac-man moves around the map with the help of the arrows on the keyboard.
 
-## UML diagrams:
+# UML diagrams:
 
 ### Use case diagram:
 ![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/4d7dd848-a50c-4364-97b7-88422266fa2d)
@@ -29,5 +29,8 @@ fill the empty spaces with dots, "No" – the window closes).
 ![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/b849a901-b89b-40f4-9f0c-abbbf7d1cc62)
 
 ## External design:
-
-![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/346df61b-537b-427e-816b-d448d5061a2e) ![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/f0ebd955-e8ec-445a-9b1a-0c1ada193033) ![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/02c1b271-d2bd-4677-b13c-1e028ef0a0eb)
+<p align="center">
+![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/346df61b-537b-427e-816b-d448d5061a2e) 
+![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/f0ebd955-e8ec-445a-9b1a-0c1ada193033) 
+![image](https://github.com/GitLN01/pac-man-java-game/assets/96472419/02c1b271-d2bd-4677-b13c-1e028ef0a0eb)
+</p>
