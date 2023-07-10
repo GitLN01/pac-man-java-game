@@ -21,15 +21,17 @@ fill the empty spaces with dots, "No" – the window closes).
 
 ### • Use case diagram:
 <div align="center">
-    <img width="600" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/4d7dd848-a50c-4364-97b7-88422266fa2d"><br><br>
+    <img width="1000" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/4d7dd848-a50c-4364-97b7-88422266fa2d"><br><br>
 </div>
+
 ### • Diagram of activities:
 <div align="center">
-    <img width="600" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/bbd1f39b-e2a1-4e00-939b-f84ae3231075"><br><br>
+    <img width="1000" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/bbd1f39b-e2a1-4e00-939b-f84ae3231075"><br><br>
 </div>
+
 ### • Diagram of classes:
 <div align="center">
-    <img width="600" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/b849a901-b89b-40f4-9f0c-abbbf7d1cc62"><br><br>
+    <img width="1000" src="https://github.com/GitLN01/pac-man-java-game/assets/96472419/b849a901-b89b-40f4-9f0c-abbbf7d1cc62"><br><br>
 </div>
 
 ## External design:
